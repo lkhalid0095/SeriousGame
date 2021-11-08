@@ -1,0 +1,456 @@
+Unity Editor version:    2020.3.20f1 (41c4e627c95f)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.15.4 (Build 19E287)
+Darwin version:          19.4.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.20f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/derickfan/Desktop/SeriousGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50709
+Successfully changed project path to: /Users/derickfan/Desktop/SeriousGame
+/Users/derickfan/Desktop/SeriousGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 72.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.20f1 (41c4e627c95f)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.20f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/derickfan/Desktop/SeriousGame/Assets
+GfxDevice: creating device client; threaded=0
+2021-11-07 19:19:21.782 Unity[3590:67674] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-11-07 19:19:21.782 Unity[3590:67674] Metal devices available: 1
+2021-11-07 19:19:21.782 Unity[3590:67674] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-11-07 19:19:21.783 Unity[3590:67674] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.20f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.20f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.20f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56590
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.20f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.20f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000914 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.342 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3342ms)
+		BeginReloadAssembly (59ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (758ms)
+			LoadAssemblies (57ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (312ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (295ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (64ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (162ms)
+				ProcessInitializeOnLoadMethodAttributes (50ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001951 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 56.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.867 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1869ms)
+		BeginReloadAssembly (247ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1519ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (557ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (547ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (56ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (379ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000363 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000364 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.20f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.9 MB.
+System memory in use after: 193.0 MB.
+
+Unloading 99 unused Assets to reduce memory usage. Loaded Objects now: 2572.
+Total: 4.425369 ms (FindLiveObjects: 0.259717 ms CreateObjectMapping: 0.082055 ms MarkObjects: 3.453234 ms  DeleteObjects: 0.629046 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Derick_Scenes
+  artifactKey: Guid(eda43beda27ce464297e6d9f5f11d942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Derick_Scenes using Guid(eda43beda27ce464297e6d9f5f11d942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a837d2ff3158ad727ddc2c108bc55c') in 0.009447 seconds 
+  Import took 0.014821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.540871 seconds.
+  path: Assets/Derick_Scenes/DerickScene.unity
+  artifactKey: Guid(0c8b6e526d1f240eca180b00855ee336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Derick_Scenes/DerickScene.unity using Guid(0c8b6e526d1f240eca180b00855ee336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5acacac8543dc36e957657d0c7a79c19') in 0.023089 seconds 
+  Import took 0.030395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.756023 seconds.
+  path: Assets/DerickScenes/Palettes
+  artifactKey: Guid(b7c74ac6e4b96437daa919e6a144062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Palettes using Guid(b7c74ac6e4b96437daa919e6a144062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b76a1e03236b8c46ec1c3463a91c63') in 0.003333 seconds 
+  Import took 0.014077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.180184 seconds.
+  path: Assets/DerickScenes/Scenes
+  artifactKey: Guid(291a26665c15c4b5c8a4600f4224298f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Scenes using Guid(291a26665c15c4b5c8a4600f4224298f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43dae6b0aa9c17cb4009ebba3d29befe') in 0.003436 seconds 
+  Import took 0.012539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.803311 seconds.
+  path: Assets/DerickScenes/Tiles
+  artifactKey: Guid(3bc4c5334bcf04cbc9f39d824ddbb376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles using Guid(3bc4c5334bcf04cbc9f39d824ddbb376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d74af8dc48369f584cc77e10d532e2f') in 0.004958 seconds 
+  Import took 0.013783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.111442 seconds.
+  path: Assets/DerickScenes/Scripts
+  artifactKey: Guid(1e817f333e12041c5a5a7d58ba1720d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Scripts using Guid(1e817f333e12041c5a5a7d58ba1720d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ef383b933fae8ad233accc0d810552') in 0.006569 seconds 
+  Import took 0.013814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.867773 seconds.
+  path: Assets/DerickScenes/Sprites
+  artifactKey: Guid(8bc5d5454c48745a5b999d8a90c47e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Sprites using Guid(8bc5d5454c48745a5b999d8a90c47e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e1ae298d5fa9a13090d645eaba2ca77') in 0.005218 seconds 
+  Import took 0.012734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.472463 seconds.
+  path: Assets/DerickScenes/TX_Tileset_Ground.png
+  artifactKey: Guid(8da63393001d04284b7f161906422b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/TX_Tileset_Ground.png using Guid(8da63393001d04284b7f161906422b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab78a7091202af6cce8affb28f0c86f1') in 0.753744 seconds 
+  Import took 0.760436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.198953 seconds.
+  path: Assets/DerickScenes/Gunner_Green_Idle.png
+  artifactKey: Guid(20174964ad27b4df1a70787632d815d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Gunner_Green_Idle.png using Guid(20174964ad27b4df1a70787632d815d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6c965b83f9a76c89d155f8fb91f881') in 0.021167 seconds 
+  Import took 0.029730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.882852 seconds.
+  path: Assets/DerickScenes/TX_Tileset_Ground.png
+  artifactKey: Guid(8da63393001d04284b7f161906422b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/TX_Tileset_Ground.png using Guid(8da63393001d04284b7f161906422b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba80719734ee29232ab4cea8b06c4676') in 0.026844 seconds 
+  Import took 0.035702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.380616 seconds.
+  path: Assets/DerickScenes/TX_Tileset_Ground.png
+  artifactKey: Guid(8da63393001d04284b7f161906422b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/TX_Tileset_Ground.png using Guid(8da63393001d04284b7f161906422b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa06f1faaf09e91bd350e58b9fc4931') in 0.619339 seconds 
+  Import took 0.629078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.137213 seconds.
+  path: Assets/DerickScenes/Gunner_Green_Idle.png
+  artifactKey: Guid(20174964ad27b4df1a70787632d815d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Gunner_Green_Idle.png using Guid(20174964ad27b4df1a70787632d815d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e09f72385c8a849c686584a3a871deb') in 0.017116 seconds 
+  Import took 0.030997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.949328 seconds.
+  path: Assets/DerickScenes/Gunner_Green_Idle.png
+  artifactKey: Guid(20174964ad27b4df1a70787632d815d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Gunner_Green_Idle.png using Guid(20174964ad27b4df1a70787632d815d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '270cb5e0746e30d4428fb9dec9e0c510') in 0.049131 seconds 
+  Import took 0.058254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.685006 seconds.
+  path: Assets/DerickScenes/Palettes/GroundTilePalette.prefab
+  artifactKey: Guid(7a525497d2fa848a5b806af384e30a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Palettes/GroundTilePalette.prefab using Guid(7a525497d2fa848a5b806af384e30a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b3a77901f175aa5c35434800e9c979b') in 0.611064 seconds 
+  Import took 0.618614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.177294 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_0.asset
+  artifactKey: Guid(68d4dd2c01c574dc2b84ab8779ccd86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_0.asset using Guid(68d4dd2c01c574dc2b84ab8779ccd86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7564d6aea028d570eaba5e308c35c1cd') in 0.320844 seconds 
+  Import took 0.325940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003277 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_11.asset
+  artifactKey: Guid(63cd03d7152804cffa37675d34dd4a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_11.asset using Guid(63cd03d7152804cffa37675d34dd4a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79755d6b8651a71454a30fed825655a1') in 0.015657 seconds 
+  Import took 0.020534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000845 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_4.asset
+  artifactKey: Guid(ad5d846dfb04f468a8695e2f1314d85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_4.asset using Guid(ad5d846dfb04f468a8695e2f1314d85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a307c905c3e87874dc8f140db44f26f8') in 0.012248 seconds 
+  Import took 0.017973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_15.asset
+  artifactKey: Guid(4b7148e9b9d814924a7d0dbea7685e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_15.asset using Guid(4b7148e9b9d814924a7d0dbea7685e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd456051972c97b5c12f45d9ffba55c7e') in 0.011439 seconds 
+  Import took 0.016119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_5.asset
+  artifactKey: Guid(e2b33faf28d7f46cf86e4556593a4d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_5.asset using Guid(e2b33faf28d7f46cf86e4556593a4d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce4daf12d73951cf9b8ff7c5d6aa629') in 0.011870 seconds 
+  Import took 0.016426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_6.asset
+  artifactKey: Guid(4d02c1bb40afd4f0d853d245acdf76d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_6.asset using Guid(4d02c1bb40afd4f0d853d245acdf76d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7405080fbd08a8ad69ca142c10aa6f3') in 0.011342 seconds 
+  Import took 0.015976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_20.asset
+  artifactKey: Guid(93e138fe95d0f4f0b8eccbca3350ba19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_20.asset using Guid(93e138fe95d0f4f0b8eccbca3350ba19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467e7e3b4340444f1e785ec6f0c95cf9') in 0.010615 seconds 
+  Import took 0.015374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_23.asset
+  artifactKey: Guid(2dacf88fc8d624ea6bf20858d3e4081d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_23.asset using Guid(2dacf88fc8d624ea6bf20858d3e4081d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f19fcc097f6856889c2af14a719af3d') in 0.011148 seconds 
+  Import took 0.015922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_16.asset
+  artifactKey: Guid(b154fae5c82184abcb70f456db47e5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_16.asset using Guid(b154fae5c82184abcb70f456db47e5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f091f6fe3b4b1b45831da9723ab567ba') in 0.010953 seconds 
+  Import took 0.015275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_8.asset
+  artifactKey: Guid(f1e0a41902ef54444836b4a8bdb37d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_8.asset using Guid(f1e0a41902ef54444836b4a8bdb37d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83df43b0a056b917a91519080387581') in 0.012730 seconds 
+  Import took 0.018008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_22.asset
+  artifactKey: Guid(ebaeee75c956a4c4ebd799723de42674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_22.asset using Guid(ebaeee75c956a4c4ebd799723de42674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3273330249441bd18656e1a35151e948') in 0.011461 seconds 
+  Import took 0.016272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_21.asset
+  artifactKey: Guid(890ab298404714a419a2ebc4ce2f07a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_21.asset using Guid(890ab298404714a419a2ebc4ce2f07a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3a5c71f332d755b9e6c3e63e1bd9f5') in 0.012242 seconds 
+  Import took 0.016598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_7.asset
+  artifactKey: Guid(fbd86079a9c464bd29b955b229e55a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_7.asset using Guid(fbd86079a9c464bd29b955b229e55a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d93ca903130c983dacaa247939a8ba0') in 0.012474 seconds 
+  Import took 0.016513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_19.asset
+  artifactKey: Guid(e6c36ee3242c44560891c5fbd3a24789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_19.asset using Guid(e6c36ee3242c44560891c5fbd3a24789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f37507777f4a8b5756f628cccda67e') in 0.012308 seconds 
+  Import took 0.016454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_12.asset
+  artifactKey: Guid(59a30bb9330784d718878dfcc138d6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_12.asset using Guid(59a30bb9330784d718878dfcc138d6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72fc068701f485e47b6ce0f426ff95bb') in 0.012304 seconds 
+  Import took 0.016536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_3.asset
+  artifactKey: Guid(452d891e207c8441399307248563bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_3.asset using Guid(452d891e207c8441399307248563bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65ced020bc4ca1359a561b80a217540') in 0.011775 seconds 
+  Import took 0.015706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_1.asset
+  artifactKey: Guid(60f079cb1daa0465fb41bc9405d74a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_1.asset using Guid(60f079cb1daa0465fb41bc9405d74a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc146352bb2ad2e01ac033a80c0d401') in 0.012175 seconds 
+  Import took 0.016371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_17.asset
+  artifactKey: Guid(24297f79259e14134b07c318dda58c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_17.asset using Guid(24297f79259e14134b07c318dda58c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc3862abe3564ae75bfe03058bf57b4') in 0.011617 seconds 
+  Import took 0.015818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_18.asset
+  artifactKey: Guid(5586494db320f46f5a2eb0e251cce167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_18.asset using Guid(5586494db320f46f5a2eb0e251cce167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '622a3173d333eab0303f7960bb18cada') in 0.012206 seconds 
+  Import took 0.016339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_2.asset
+  artifactKey: Guid(ad6ba863ebc644d2fbd69c8a6e911e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_2.asset using Guid(ad6ba863ebc644d2fbd69c8a6e911e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd2aed33d81efced03f243288eaa1c06') in 0.012514 seconds 
+  Import took 0.016470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_14.asset
+  artifactKey: Guid(b6c0bc60a27f746d9a1b861f44b15377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_14.asset using Guid(b6c0bc60a27f746d9a1b861f44b15377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba79afaf9043e2fab46281704ebdf2fa') in 0.013025 seconds 
+  Import took 0.016990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_9.asset
+  artifactKey: Guid(43901cbc1359a44919687ff589530544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_9.asset using Guid(43901cbc1359a44919687ff589530544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45636b837aa181a55f566055b6b96069') in 0.011511 seconds 
+  Import took 0.015497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_10.asset
+  artifactKey: Guid(35b68cc5451b94a2690a1a4ec267d7bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_10.asset using Guid(35b68cc5451b94a2690a1a4ec267d7bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '478d6ccecd0b9ae3a57e0080145a5995') in 0.011830 seconds 
+  Import took 0.015899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/DerickScenes/Tiles/TX_Tileset_Ground_13.asset
+  artifactKey: Guid(d44ec1e5ca3af43219c0c8e999611f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_13.asset using Guid(d44ec1e5ca3af43219c0c8e999611f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b96f026afb12ce74b1fc94c5a02cebd') in 0.012558 seconds 
+  Import took 0.016873 seconds .
+
