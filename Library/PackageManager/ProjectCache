@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637714023240000000
+      ticks: 637719269370000000
     m_Hash: 1197561154
   m_LockFileStatus:
     m_FilePath: /Users/derickfan/Desktop/SeriousGame/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637714023330000000
+      ticks: 637719269370000000
     m_Hash: 3466310726
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -3393,6 +3393,7 @@ m_PackageAssets:
         - 6.0.0-pre.3
         - 6.0.0-pre.4
         - 6.0.0
+        - 7.0.0-pre.3
         compatible:
         - 4.0.3
         verified: 4.0.3
