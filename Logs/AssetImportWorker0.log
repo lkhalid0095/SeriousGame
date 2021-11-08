@@ -454,3 +454,181 @@ Received Import Request.
 Start importing Assets/DerickScenes/Tiles/TX_Tileset_Ground_13.asset using Guid(d44ec1e5ca3af43219c0c8e999611f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b96f026afb12ce74b1fc94c5a02cebd') in 0.012558 seconds 
   Import took 0.016873 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 164.854726 seconds.
+  path: Assets/DerickScenes
+  artifactKey: Guid(eda43beda27ce464297e6d9f5f11d942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes using Guid(eda43beda27ce464297e6d9f5f11d942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3559a7d435511bd68ca6d2ce5b708df') in 0.002306 seconds 
+  Import took 0.013298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.976555 seconds.
+  path: Assets/DerickScenes/Sprites/Player.prefab
+  artifactKey: Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Sprites/Player.prefab using Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '293b3706e71f70470e102ef362981223') in 0.015313 seconds 
+  Import took 0.022584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.907871 seconds.
+  path: Assets/DerickScenes/Sprites/Player.prefab
+  artifactKey: Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Sprites/Player.prefab using Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128bc2832ae0f7d7e2546c570f2267cf') in 0.024088 seconds 
+  Import took 0.034314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.042022 seconds.
+  path: Assets/DerickScenes/Sprites/Player.prefab
+  artifactKey: Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Sprites/Player.prefab using Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f7949ef4de79a0c466eeb396e2a067') in 0.030890 seconds 
+  Import took 0.039742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.088893 seconds.
+  path: Assets/DerickScenes/Sprites/Player.prefab
+  artifactKey: Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Sprites/Player.prefab using Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60f9f2874ac7f0316945f381dda9ba2') in 0.021283 seconds 
+  Import took 0.031941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.654840 seconds.
+  path: Assets/DerickScenes/Sprites/Player.prefab
+  artifactKey: Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Sprites/Player.prefab using Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8219bd6b6f6b39fc715988ab7b4cc9') in 0.031793 seconds 
+  Import took 0.039935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.565302 seconds.
+  path: Assets/DerickScenes/Sprites/Player.prefab
+  artifactKey: Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Sprites/Player.prefab using Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23406a0e51d4493d198465de6fe95aae') in 0.031742 seconds 
+  Import took 0.037150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.629783 seconds.
+  path: Assets/DerickScenes/Sprites/Player.prefab
+  artifactKey: Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DerickScenes/Sprites/Player.prefab using Guid(ea740737087bc4f24b8d5e90a8ad60ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e5ddbf5c2cf84897f03b1c463ea780') in 0.037204 seconds 
+  Import took 0.044610 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002015 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.834 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1835ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (101ms)
+		EndReloadAssembly (1535ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (565ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (84ms)
+			SetupLoadedEditorAssemblies (547ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (148ms)
+				ProcessInitializeOnLoadAttributes (375ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.9 MB.
+System memory in use after: 205.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 4.374037 ms (FindLiveObjects: 0.261467 ms CreateObjectMapping: 0.088608 ms MarkObjects: 3.996202 ms  DeleteObjects: 0.026246 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002448 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.827 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1827ms)
+		BeginReloadAssembly (201ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (108ms)
+		EndReloadAssembly (1511ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (554ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (551ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (151ms)
+				ProcessInitializeOnLoadAttributes (376ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.1 MB.
+System memory in use after: 205.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2597.
+Total: 7.720761 ms (FindLiveObjects: 0.756523 ms CreateObjectMapping: 0.360512 ms MarkObjects: 6.569406 ms  DeleteObjects: 0.032321 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
