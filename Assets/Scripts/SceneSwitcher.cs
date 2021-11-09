@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitcher : MonoBehaviour
 {
+    [SerializeField] private GameObject pauseMenu;
+    [SerializeField] private GameObject pauseButton;
     // Start is called before the first frame update
     public void GoToInstructions()
     {
@@ -19,5 +21,19 @@ public class SceneSwitcher : MonoBehaviour
     public void LoadFirstScene()
     {
         SceneManager.LoadScene("Scene1");
+    }
+
+    public void PauseButton()
+    {
+        Time.timeScale = 0f;
+        pauseMenu.SetActive(true);
+        pauseButton.SetActive(false);
+    }
+
+    public void ResumeButton()
+    {
+        Time.timeScale = 1.0f;
+        pauseMenu.SetActive(false);
+        pauseButton.SetActive(true);
     }
 }
