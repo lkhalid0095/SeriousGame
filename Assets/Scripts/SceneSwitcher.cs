@@ -20,6 +20,7 @@ public class SceneSwitcher : MonoBehaviour
 
     public void LoadFirstScene()
     {
+        Time.timeScale = 1.0f;
         SceneManager.LoadScene("Scene1");
     }
 
