@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-11-09T20:57:50.666-05:00
+  initializedAtString: 2021-11-09T19:59:55.037-05:00
+  entries:
+  - path: Assets/AudioInScene.cs
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/AudioInScene.cs
+    projectPath: Assets/AudioInScene.cs
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: Assets/AudioInScene.cs.meta
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/AudioInScene.cs.meta
+    projectPath: Assets/AudioInScene.cs.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: Assets/Scenes/Scene1.unity
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Scenes/Scene1.unity
+    projectPath: Assets/Scenes/Scene1.unity
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Assets/Scripts/AudioInScene.cs
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Scripts/AudioInScene.cs
+    projectPath: Assets/Scripts/AudioInScene.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/AudioInScene.cs.meta
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Scripts/AudioInScene.cs.meta
+    projectPath: Assets/Scripts/AudioInScene.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/bg2.jpeg
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Sprites/bg2.jpeg
+    projectPath: Assets/Sprites/bg2.jpeg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets/Sprites/bg2.jpeg.meta
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Sprites/bg2.jpeg.meta
+    projectPath: Assets/Sprites/bg2.jpeg.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets/Sprites/United States of America National Anthem (Instrumental)
+      (1).mp3
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Sprites/United States of
+      America National Anthem (Instrumental) (1).mp3
+    projectPath: Assets/Sprites/United States of America National Anthem (Instrumental)
+      (1).mp3
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets/Sprites/United States of America National Anthem (Instrumental)
+      (1).mp3.meta
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Sprites/United States of
+      America National Anthem (Instrumental) (1).mp3.meta
+    projectPath: Assets/Sprites/United States of America National Anthem (Instrumental)
+      (1).mp3.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/UIElements.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UIElements.xsd
+    projectPath: UIElementsSchema/UIElements.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+    projectPath: UIElementsSchema/Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/Unity.Cloud.Collaborate.Components.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/Unity.Cloud.Collaborate.Components.xsd
+    projectPath: UIElementsSchema/Unity.Cloud.Collaborate.Components.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/Unity.Cloud.Collaborate.Views.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/Unity.Cloud.Collaborate.Views.xsd
+    projectPath: UIElementsSchema/Unity.Cloud.Collaborate.Views.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+    projectPath: UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/UnityEditor.U2D.Animation.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.U2D.Animation.xsd
+    projectPath: UIElementsSchema/UnityEditor.U2D.Animation.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/UnityEditor.U2D.Layout.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.U2D.Layout.xsd
+    projectPath: UIElementsSchema/UnityEditor.U2D.Layout.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/UnityEditor.UIElements.Debugger.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.UIElements.Debugger.xsd
+    projectPath: UIElementsSchema/UnityEditor.UIElements.Debugger.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/UnityEditor.UIElements.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.UIElements.xsd
+    projectPath: UIElementsSchema/UnityEditor.UIElements.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UIElementsSchema/UnityEngine.UIElements.xsd
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEngine.UIElements.xsd
+    projectPath: UIElementsSchema/UnityEngine.UIElements.xsd
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
