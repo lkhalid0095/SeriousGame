@@ -30,9 +30,11 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        Debug.Log(isJumping);
         if (moveHorizontal > 0f || moveHorizontal < 0f)
         {
+			Vector2 scale = transform.localScale;
+			scale.x = moveHorizontal > 0f ? 4 : -4;
+			transform.localScale = scale;
             rigidBody2D.AddForce(new Vector2(moveHorizontal * moveSpeed, 0), ForceMode2D.Impulse);
         }
         if (!isJumping && moveVertical > 0f)
