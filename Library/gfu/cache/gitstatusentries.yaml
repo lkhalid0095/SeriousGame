@@ -13,126 +13,848 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-11-09T20:57:50.666-05:00
-  initializedAtString: 2021-11-09T19:59:55.037-05:00
+  lastUpdatedAtString: 2021-11-09T21:15:51.660-05:00
+  initializedAtString: 2021-11-09T21:13:41.454-05:00
   entries:
-  - path: Assets/AudioInScene.cs
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/AudioInScene.cs
-    projectPath: Assets/AudioInScene.cs
+  - path: Library/ArtifactDB
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
     originalPath: 
-    indexStatus: 4
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/03/03780a0ff97aa08f70824b1ca458ffae
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/03/03780a0ff97aa08f70824b1ca458ffae
+    projectPath: Library/Artifacts/03/03780a0ff97aa08f70824b1ca458ffae
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 5
-  - path: Assets/AudioInScene.cs.meta
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/AudioInScene.cs.meta
-    projectPath: Assets/AudioInScene.cs.meta
+  - path: Library/Artifacts/09/0941f7e3a9adcf2917b5981e26277a40
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/09/0941f7e3a9adcf2917b5981e26277a40
+    projectPath: Library/Artifacts/09/0941f7e3a9adcf2917b5981e26277a40
     originalPath: 
-    indexStatus: 4
+    indexStatus: 0
     workTreeStatus: 5
-  - path: Assets/Scenes/Scene1.unity
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Scenes/Scene1.unity
-    projectPath: Assets/Scenes/Scene1.unity
+  - path: Library/Artifacts/16/166198f415707cc115d206f9d7fdd438
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/16/166198f415707cc115d206f9d7fdd438
+    projectPath: Library/Artifacts/16/166198f415707cc115d206f9d7fdd438
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Assets/Scripts/AudioInScene.cs
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Scripts/AudioInScene.cs
-    projectPath: Assets/Scripts/AudioInScene.cs
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/20/208748cc3e8e9982cd53cbf215bf875b
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/20/208748cc3e8e9982cd53cbf215bf875b
+    projectPath: Library/Artifacts/20/208748cc3e8e9982cd53cbf215bf875b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/AudioInScene.cs.meta
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Scripts/AudioInScene.cs.meta
-    projectPath: Assets/Scripts/AudioInScene.cs.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2a/2a493066fb1589b27cd062c7340cd11e
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/2a/2a493066fb1589b27cd062c7340cd11e
+    projectPath: Library/Artifacts/2a/2a493066fb1589b27cd062c7340cd11e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Sprites/bg2.jpeg
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Sprites/bg2.jpeg
-    projectPath: Assets/Sprites/bg2.jpeg
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/33/33d83e72ad9f08bf0bbbe589c5ac9164
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/33/33d83e72ad9f08bf0bbbe589c5ac9164
+    projectPath: Library/Artifacts/33/33d83e72ad9f08bf0bbbe589c5ac9164
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets/Sprites/bg2.jpeg.meta
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Sprites/bg2.jpeg.meta
-    projectPath: Assets/Sprites/bg2.jpeg.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/35/350390ef733fa8a98d703d93b8c7efe0
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/35/350390ef733fa8a98d703d93b8c7efe0
+    projectPath: Library/Artifacts/35/350390ef733fa8a98d703d93b8c7efe0
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets/Sprites/United States of America National Anthem (Instrumental)
-      (1).mp3
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Sprites/United States of
-      America National Anthem (Instrumental) (1).mp3
-    projectPath: Assets/Sprites/United States of America National Anthem (Instrumental)
-      (1).mp3
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/45/453c10f1f9e1fd3d1a1573c120df95a6
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/45/453c10f1f9e1fd3d1a1573c120df95a6
+    projectPath: Library/Artifacts/45/453c10f1f9e1fd3d1a1573c120df95a6
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets/Sprites/United States of America National Anthem (Instrumental)
-      (1).mp3.meta
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Assets/Sprites/United States of
-      America National Anthem (Instrumental) (1).mp3.meta
-    projectPath: Assets/Sprites/United States of America National Anthem (Instrumental)
-      (1).mp3.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4f/4ff38d4e25af208f16f21e440e35b132
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/4f/4ff38d4e25af208f16f21e440e35b132
+    projectPath: Library/Artifacts/4f/4ff38d4e25af208f16f21e440e35b132
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/UIElements.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UIElements.xsd
-    projectPath: UIElementsSchema/UIElements.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/51/5171d614fae243381965dbde9f66186e
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/51/5171d614fae243381965dbde9f66186e
+    projectPath: Library/Artifacts/51/5171d614fae243381965dbde9f66186e
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
-    projectPath: UIElementsSchema/Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/51/51d524fe473cb4c4a9974f2c1ce8c8d4
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/51/51d524fe473cb4c4a9974f2c1ce8c8d4
+    projectPath: Library/Artifacts/51/51d524fe473cb4c4a9974f2c1ce8c8d4
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/Unity.Cloud.Collaborate.Components.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/Unity.Cloud.Collaborate.Components.xsd
-    projectPath: UIElementsSchema/Unity.Cloud.Collaborate.Components.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/56/560f295ead8b3c7be617a815e97862df
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/56/560f295ead8b3c7be617a815e97862df
+    projectPath: Library/Artifacts/56/560f295ead8b3c7be617a815e97862df
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/Unity.Cloud.Collaborate.Views.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/Unity.Cloud.Collaborate.Views.xsd
-    projectPath: UIElementsSchema/Unity.Cloud.Collaborate.Views.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/58/583f8646a473733a4505ab4057cf9d55
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/58/583f8646a473733a4505ab4057cf9d55
+    projectPath: Library/Artifacts/58/583f8646a473733a4505ab4057cf9d55
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/UnityEditor.PackageManager.UI.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.PackageManager.UI.xsd
-    projectPath: UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/63/63125244d0eb66d1442aff9c6e427ffa
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/63/63125244d0eb66d1442aff9c6e427ffa
+    projectPath: Library/Artifacts/63/63125244d0eb66d1442aff9c6e427ffa
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/UnityEditor.U2D.Animation.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.U2D.Animation.xsd
-    projectPath: UIElementsSchema/UnityEditor.U2D.Animation.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/65/65bf05bf0b7d5de0e65bef43bf252f47
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/65/65bf05bf0b7d5de0e65bef43bf252f47
+    projectPath: Library/Artifacts/65/65bf05bf0b7d5de0e65bef43bf252f47
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/UnityEditor.U2D.Layout.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.U2D.Layout.xsd
-    projectPath: UIElementsSchema/UnityEditor.U2D.Layout.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6b/6bba9fedf4bd94696b5d0524cd334e0d
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/6b/6bba9fedf4bd94696b5d0524cd334e0d
+    projectPath: Library/Artifacts/6b/6bba9fedf4bd94696b5d0524cd334e0d
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/UnityEditor.UIElements.Debugger.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.UIElements.Debugger.xsd
-    projectPath: UIElementsSchema/UnityEditor.UIElements.Debugger.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/77/7732a7861cc02054de6ce75c4d85d763
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/77/7732a7861cc02054de6ce75c4d85d763
+    projectPath: Library/Artifacts/77/7732a7861cc02054de6ce75c4d85d763
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/UnityEditor.UIElements.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEditor.UIElements.xsd
-    projectPath: UIElementsSchema/UnityEditor.UIElements.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7e/7e842fc58b022c6966d74c7f158c73b0
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/7e/7e842fc58b022c6966d74c7f158c73b0
+    projectPath: Library/Artifacts/7e/7e842fc58b022c6966d74c7f158c73b0
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: UIElementsSchema/UnityEngine.UIElements.xsd
-    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UIElementsSchema/UnityEngine.UIElements.xsd
-    projectPath: UIElementsSchema/UnityEngine.UIElements.xsd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ae/aeea99ccb6e33b0a6c3b5dee02552967
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/ae/aeea99ccb6e33b0a6c3b5dee02552967
+    projectPath: Library/Artifacts/ae/aeea99ccb6e33b0a6c3b5dee02552967
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/db/db9919824d88c8959da0a631954b8e70
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/db/db9919824d88c8959da0a631954b8e70
+    projectPath: Library/Artifacts/db/db9919824d88c8959da0a631954b8e70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/dc/dcdb341e8e465d0de5e078b2f0c5dc87
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/dc/dcdb341e8e465d0de5e078b2f0c5dc87
+    projectPath: Library/Artifacts/dc/dcdb341e8e465d0de5e078b2f0c5dc87
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
+    projectPath: Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ef/ef709039753dcd910c0056b7137cf177
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/ef/ef709039753dcd910c0056b7137cf177
+    projectPath: Library/Artifacts/ef/ef709039753dcd910c0056b7137cf177
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f5/f5c7e9c7f7d2845bd2e5a46edefc0bb3
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/Artifacts/f5/f5c7e9c7f7d2845bd2e5a46edefc0bb3
+    projectPath: Library/Artifacts/f5/f5c7e9c7f7d2845bd2e5a46edefc0bb3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorUserBuildSettings.asset
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/EditorUserBuildSettings.asset
+    projectPath: Library/EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/AssetImportWorker0.log
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Logs/AssetImportWorker0.log
+    projectPath: Logs/AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/shadercompiler-AssetImportWorker0.log
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Logs/shadercompiler-AssetImportWorker0.log
+    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Logs/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Logs/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Logs/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Logs/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/ApiUpdater_CheckMovedFrom2b1014b174ebc4108b7f9bc117d6cabc
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/ApiUpdater_CheckMovedFrom2b1014b174ebc4108b7f9bc117d6cabc
+    projectPath: Temp/ApiUpdater_CheckMovedFrom2b1014b174ebc4108b7f9bc117d6cabc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/ApiUpdater_CheckMovedFrom5547b30bdb0e94a9b83c4c7c62a2de96
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/ApiUpdater_CheckMovedFrom5547b30bdb0e94a9b83c4c7c62a2de96
+    projectPath: Temp/ApiUpdater_CheckMovedFrom5547b30bdb0e94a9b83c4c7c62a2de96
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Assembly-CSharp.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Assembly-CSharp.dll.hash
+    projectPath: Temp/Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/CompilationLog.txt
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/fsbankcache 1/United States of America National Anthem (Instrumental)_B9A0B75157CCF76B.fobj
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/fsbankcache 1/United States
+      of America National Anthem (Instrumental)_B9A0B75157CCF76B.fobj
+    projectPath: Temp/fsbankcache 1/United States of America National Anthem (Instrumental)_B9A0B75157CCF76B.fobj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/fsbankcache/bgm_5433DF226F77FD63.fobj
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/fsbankcache/bgm_5433DF226F77FD63.fobj
+    projectPath: Temp/fsbankcache/bgm_5433DF226F77FD63.fobj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/importedAudioTempPrimary
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/importedAudioTempPrimary
+    projectPath: Temp/importedAudioTempPrimary
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/importedAudioTempPrimary 1
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/importedAudioTempPrimary
+      1
+    projectPath: Temp/importedAudioTempPrimary 1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/PsdPlugin.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/PsdPlugin.dll.hash
+    projectPath: Temp/PsdPlugin.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Animation.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Animation.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Animation.Runtime.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Animation.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Common.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Common.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Common.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Common.Runtime.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Common.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Common.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.IK.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.IK.Editor.dll.hash
+    projectPath: Temp/Unity.2D.IK.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.IK.Runtime.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.IK.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.IK.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Path.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Path.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Path.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.PixelPerfect.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.PixelPerfect.dll.hash
+    projectPath: Temp/Unity.2D.PixelPerfect.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    projectPath: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Sprite.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Sprite.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Sprite.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    projectPath: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Tilemap.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.2D.Tilemap.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Tilemap.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.CollabProxy.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    projectPath: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    projectPath: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Mathematics.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.Mathematics.dll.hash
+    projectPath: Temp/Unity.Mathematics.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Mathematics.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.Mathematics.Editor.dll.hash
+    projectPath: Temp/Unity.Mathematics.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.PlasticSCM.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp/Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Rider.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.Rider.Editor.dll.hash
+    projectPath: Temp/Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Services.Core.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.Services.Core.Editor.dll.hash
+    projectPath: Temp/Unity.Services.Core.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.TextMeshPro.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.TextMeshPro.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.TextMeshPro.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Timeline.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.Timeline.dll.hash
+    projectPath: Temp/Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Timeline.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.Timeline.Editor.dll.hash
+    projectPath: Temp/Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.VisualStudio.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.VSCode.Editor.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/Unity.VSCode.Editor.dll.hash
+    projectPath: Temp/Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityEditor.TestRunner.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityEditor.TestRunner.dll.hash
+    projectPath: Temp/UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityEditor.UI.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityEditor.UI.dll.hash
+    projectPath: Temp/UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityEngine.TestRunner.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityEngine.TestRunner.dll.hash
+    projectPath: Temp/UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityEngine.UI.dll.hash
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityEngine.UI.dll.hash
+    projectPath: Temp/UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-04eafb3560ec84775936bb46344e696c
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-04eafb3560ec84775936bb46344e696c
+    projectPath: Temp/UnityTempFile-04eafb3560ec84775936bb46344e696c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-06b0fc739aaf2447181d4c373d7f3976
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-06b0fc739aaf2447181d4c373d7f3976
+    projectPath: Temp/UnityTempFile-06b0fc739aaf2447181d4c373d7f3976
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0935e8ab5b887421ca0d72778093f350
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-0935e8ab5b887421ca0d72778093f350
+    projectPath: Temp/UnityTempFile-0935e8ab5b887421ca0d72778093f350
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0d80846d2dbb5411da0ba52283d51df0
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-0d80846d2dbb5411da0ba52283d51df0
+    projectPath: Temp/UnityTempFile-0d80846d2dbb5411da0ba52283d51df0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0e6c92f32bbfd47d68c35781c04a524e
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-0e6c92f32bbfd47d68c35781c04a524e
+    projectPath: Temp/UnityTempFile-0e6c92f32bbfd47d68c35781c04a524e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-14decf84bcd084a54998072d602449e9
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-14decf84bcd084a54998072d602449e9
+    projectPath: Temp/UnityTempFile-14decf84bcd084a54998072d602449e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-17643a51b0eb543e884c55165d2cc70c
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-17643a51b0eb543e884c55165d2cc70c
+    projectPath: Temp/UnityTempFile-17643a51b0eb543e884c55165d2cc70c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1b03058cbe4474da99a17f2bfdfb2bcb
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-1b03058cbe4474da99a17f2bfdfb2bcb
+    projectPath: Temp/UnityTempFile-1b03058cbe4474da99a17f2bfdfb2bcb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1c19548d4a860405188eadbdc8150f1e
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-1c19548d4a860405188eadbdc8150f1e
+    projectPath: Temp/UnityTempFile-1c19548d4a860405188eadbdc8150f1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-21bb1939b124b4e96b44967c8eb6e11a
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-21bb1939b124b4e96b44967c8eb6e11a
+    projectPath: Temp/UnityTempFile-21bb1939b124b4e96b44967c8eb6e11a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-241787cc3b7cc4af88ab863fb5c101cf
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-241787cc3b7cc4af88ab863fb5c101cf
+    projectPath: Temp/UnityTempFile-241787cc3b7cc4af88ab863fb5c101cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-25e34524413054241abaee8721cf9456
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-25e34524413054241abaee8721cf9456
+    projectPath: Temp/UnityTempFile-25e34524413054241abaee8721cf9456
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-274a789e5e15c465e8f53b4d82c2ab99
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-274a789e5e15c465e8f53b4d82c2ab99
+    projectPath: Temp/UnityTempFile-274a789e5e15c465e8f53b4d82c2ab99
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-335966de1276143dc92bebef78d34456
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-335966de1276143dc92bebef78d34456
+    projectPath: Temp/UnityTempFile-335966de1276143dc92bebef78d34456
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-376fbc9fa357044328b6c47cc95fda38
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-376fbc9fa357044328b6c47cc95fda38
+    projectPath: Temp/UnityTempFile-376fbc9fa357044328b6c47cc95fda38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-386ad58f2ac0f49bc8301acde9bd9797
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-386ad58f2ac0f49bc8301acde9bd9797
+    projectPath: Temp/UnityTempFile-386ad58f2ac0f49bc8301acde9bd9797
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-398d88be81c1d451c979a32467927d9e
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-398d88be81c1d451c979a32467927d9e
+    projectPath: Temp/UnityTempFile-398d88be81c1d451c979a32467927d9e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-48ea604197bd2442f9ab1ef284e20da7
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-48ea604197bd2442f9ab1ef284e20da7
+    projectPath: Temp/UnityTempFile-48ea604197bd2442f9ab1ef284e20da7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-53b3d4ab5947e4fe997e2396d5635cb9
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-53b3d4ab5947e4fe997e2396d5635cb9
+    projectPath: Temp/UnityTempFile-53b3d4ab5947e4fe997e2396d5635cb9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-55c3fe884587146afa7fd4b577e3d567
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-55c3fe884587146afa7fd4b577e3d567
+    projectPath: Temp/UnityTempFile-55c3fe884587146afa7fd4b577e3d567
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-57e764977d4734b2b9f65340e3c31c3b
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-57e764977d4734b2b9f65340e3c31c3b
+    projectPath: Temp/UnityTempFile-57e764977d4734b2b9f65340e3c31c3b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5849edee084f14f099a2eea036f606a7
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-5849edee084f14f099a2eea036f606a7
+    projectPath: Temp/UnityTempFile-5849edee084f14f099a2eea036f606a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5a5fcc57b53204b93ad741c21ba7726a
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-5a5fcc57b53204b93ad741c21ba7726a
+    projectPath: Temp/UnityTempFile-5a5fcc57b53204b93ad741c21ba7726a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-60b0f0c92a2224cd18a3a3571555cc15
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-60b0f0c92a2224cd18a3a3571555cc15
+    projectPath: Temp/UnityTempFile-60b0f0c92a2224cd18a3a3571555cc15
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6312258fe8ed040f6b12ee1f00c0e483
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-6312258fe8ed040f6b12ee1f00c0e483
+    projectPath: Temp/UnityTempFile-6312258fe8ed040f6b12ee1f00c0e483
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6b4113386e0fa4dd9827fedf0a3c3029
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-6b4113386e0fa4dd9827fedf0a3c3029
+    projectPath: Temp/UnityTempFile-6b4113386e0fa4dd9827fedf0a3c3029
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6b7ed58d2301444e8b69a09b58fecb0d
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-6b7ed58d2301444e8b69a09b58fecb0d
+    projectPath: Temp/UnityTempFile-6b7ed58d2301444e8b69a09b58fecb0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-705ae8649d1184f9b8825dc06335c6a1
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-705ae8649d1184f9b8825dc06335c6a1
+    projectPath: Temp/UnityTempFile-705ae8649d1184f9b8825dc06335c6a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-710f25300e2c4408497a4bffe8d8fd84
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-710f25300e2c4408497a4bffe8d8fd84
+    projectPath: Temp/UnityTempFile-710f25300e2c4408497a4bffe8d8fd84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7551a48f4252f40f2b0f29ef1fcbc104
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-7551a48f4252f40f2b0f29ef1fcbc104
+    projectPath: Temp/UnityTempFile-7551a48f4252f40f2b0f29ef1fcbc104
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-756277ab364d94d7a98cd67d8985f567
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-756277ab364d94d7a98cd67d8985f567
+    projectPath: Temp/UnityTempFile-756277ab364d94d7a98cd67d8985f567
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7c2ce9fcfccf244caa26f2d4d65cf728
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-7c2ce9fcfccf244caa26f2d4d65cf728
+    projectPath: Temp/UnityTempFile-7c2ce9fcfccf244caa26f2d4d65cf728
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-810dab40b383749a8be4ca6b1ff63180
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-810dab40b383749a8be4ca6b1ff63180
+    projectPath: Temp/UnityTempFile-810dab40b383749a8be4ca6b1ff63180
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8ed39dc4fd07242c9a2ab90fd5c1ce91
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-8ed39dc4fd07242c9a2ab90fd5c1ce91
+    projectPath: Temp/UnityTempFile-8ed39dc4fd07242c9a2ab90fd5c1ce91
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8f80204fe2176466498f949cbb2ee5db
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-8f80204fe2176466498f949cbb2ee5db
+    projectPath: Temp/UnityTempFile-8f80204fe2176466498f949cbb2ee5db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8f827436d0c634735b7dce6c762b0f2f
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-8f827436d0c634735b7dce6c762b0f2f
+    projectPath: Temp/UnityTempFile-8f827436d0c634735b7dce6c762b0f2f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a907f76f88b8b4813815497f7ab2dffa
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-a907f76f88b8b4813815497f7ab2dffa
+    projectPath: Temp/UnityTempFile-a907f76f88b8b4813815497f7ab2dffa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b30c3130b553d41a3a4b494e13fb1a32
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-b30c3130b553d41a3a4b494e13fb1a32
+    projectPath: Temp/UnityTempFile-b30c3130b553d41a3a4b494e13fb1a32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b4661d6e9888046f88be73c54149b751
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-b4661d6e9888046f88be73c54149b751
+    projectPath: Temp/UnityTempFile-b4661d6e9888046f88be73c54149b751
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b70efb487b6f44f329deafb2d49bff73
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-b70efb487b6f44f329deafb2d49bff73
+    projectPath: Temp/UnityTempFile-b70efb487b6f44f329deafb2d49bff73
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-bbf58d8964dcf498ea3a61056aae2637
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-bbf58d8964dcf498ea3a61056aae2637
+    projectPath: Temp/UnityTempFile-bbf58d8964dcf498ea3a61056aae2637
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c26232057966b4f94ba89ec9a2ed0c0e
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-c26232057966b4f94ba89ec9a2ed0c0e
+    projectPath: Temp/UnityTempFile-c26232057966b4f94ba89ec9a2ed0c0e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-cb8320d65a784419192c37acd90cfcb1
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-cb8320d65a784419192c37acd90cfcb1
+    projectPath: Temp/UnityTempFile-cb8320d65a784419192c37acd90cfcb1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-cf05675c35e07481892a2cf78f961e92
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-cf05675c35e07481892a2cf78f961e92
+    projectPath: Temp/UnityTempFile-cf05675c35e07481892a2cf78f961e92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-dbfe3455271aa4c5cbe180a4a6165cdb
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-dbfe3455271aa4c5cbe180a4a6165cdb
+    projectPath: Temp/UnityTempFile-dbfe3455271aa4c5cbe180a4a6165cdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-dd531170555e645cd839995a57a33b8b
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-dd531170555e645cd839995a57a33b8b
+    projectPath: Temp/UnityTempFile-dd531170555e645cd839995a57a33b8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e09f4723d5b45491380bda1057dd8194
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-e09f4723d5b45491380bda1057dd8194
+    projectPath: Temp/UnityTempFile-e09f4723d5b45491380bda1057dd8194
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e0ada4efcf7264c92a325a0c772f81b8
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-e0ada4efcf7264c92a325a0c772f81b8
+    projectPath: Temp/UnityTempFile-e0ada4efcf7264c92a325a0c772f81b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e4909db1c937d42f5982f847896994f4
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-e4909db1c937d42f5982f847896994f4
+    projectPath: Temp/UnityTempFile-e4909db1c937d42f5982f847896994f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e9a40b38687aa4637afdec774f8e10bb
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-e9a40b38687aa4637afdec774f8e10bb
+    projectPath: Temp/UnityTempFile-e9a40b38687aa4637afdec774f8e10bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f0fd6816c6f7d47a7bb3bd01e919102c
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-f0fd6816c6f7d47a7bb3bd01e919102c
+    projectPath: Temp/UnityTempFile-f0fd6816c6f7d47a7bb3bd01e919102c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f9ac858a4f8c7437393b5c94a2f26f5a
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/Temp/UnityTempFile-f9ac858a4f8c7437393b5c94a2f26f5a
+    projectPath: Temp/UnityTempFile-f9ac858a4f8c7437393b5c94a2f26f5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UserSettings/EditorUserSettings.asset
+    fullPath: /Users/Lubna/Desktop/GDD/SeriousGame/UserSettings/EditorUserSettings.asset
+    projectPath: UserSettings/EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
