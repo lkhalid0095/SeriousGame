@@ -41,4 +41,10 @@ public class SceneSwitcher : MonoBehaviour
     public void goToOliveBranch(){
         SceneManager.LoadScene("GreatBritain");
     }
+    public void goToCrossingText(){
+        SceneManager.LoadScene("CrossingofDelawareTextScene");
+    }
+    public void goToCrossing(){
+        SceneManager.LoadScene("CrossingofDelaware");
+    }
 }
