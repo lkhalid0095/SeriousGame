@@ -57,8 +57,16 @@ public class EnemyMovement : MonoBehaviour
             _moveHorizontal *= -1;
         } else if (other.CompareTag("Bullet"))
         {
-            Destroy(gameObject);
+            _moveHorizontal = 0;
+            anim.SetBool("isDie", true);
             Destroy(other.gameObject);
+            Invoke("KillEnemey", 0.5f);
         }
     }
+
+    private void KillEnemey()
+    {
+        Destroy(gameObject);
+    }
+    
 }
