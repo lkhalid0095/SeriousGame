@@ -671,7 +671,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Attack/Shoot: Left Mouse Click'
+  m_Text: 'Attack/Shoot: Spacebar'
 --- !u!222 &836717541
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -923,6 +923,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6e03a3e0ea2349b069f535c6854bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pauseMenu: {fileID: 0}
+  pauseButton: {fileID: 0}
+  nextScene: 
 --- !u!1 &1605736529
 GameObject:
   m_ObjectHideFlags: 0
