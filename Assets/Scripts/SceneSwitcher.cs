@@ -37,4 +37,8 @@ public class SceneSwitcher : MonoBehaviour
         pauseMenu.SetActive(false);
         pauseButton.SetActive(true);
     }
+
+    public void goToOliveBranch(){
+        SceneManager.LoadScene("GreatBritain");
+    }
 }
