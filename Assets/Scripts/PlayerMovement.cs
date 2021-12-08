@@ -113,10 +113,5 @@ public class PlayerMovement : MonoBehaviour
     {
         _canShoot = true;
     }
-    
-    private void OnBecameInvisible()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    }
-    
+
 }
