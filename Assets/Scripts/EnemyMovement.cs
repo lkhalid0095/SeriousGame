@@ -5,36 +5,41 @@ using UnityEngine;
 public class EnemyMovement : MonoBehaviour
 {
     
-    private Rigidbody2D rigidBody2D;
-    private float moveSpeed;
-    private float jumpForce;
-    private bool isJumping;
-    private float moveHorizontal;
-    private float moveVertical;
+    private Rigidbody2D _rigidBody2D;
+    private float _moveSpeed;
+    //private float _jumpForce;
+    //private bool _isJumping;
+    private float _moveHorizontal;
+    //private float _moveVertical;
     private bool _facingRight;
+
+    private Animator anim;
     
     // Start is called before the first frame update
     void Start()
     {
-        rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
-        moveSpeed = 5f;
-        moveHorizontal = 1;
+        _rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
+        _moveSpeed = 5f;
+        _moveHorizontal = 1;
+        anim = gameObject.GetComponentInChildren<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
         
-    }
+    } 
     
     void FixedUpdate()
     {
         Vector2 position = new Vector2();
-        position.x = moveHorizontal * moveHorizontal * moveSpeed * Time.deltaTime;
-        if (moveHorizontal > 0 && _facingRight || moveHorizontal < 0 && !_facingRight)
+        position.x = _moveHorizontal * _moveHorizontal * _moveSpeed * Time.deltaTime;
+        if (_moveHorizontal > 0 && _facingRight || _moveHorizontal < 0 && !_facingRight)
         {
             Flip();
         }
+        
+        anim.SetBool("isRunning", true);
         
         transform.Translate(position);
     }
@@ -49,7 +54,7 @@ public class EnemyMovement : MonoBehaviour
     {
         if (other.CompareTag("Platform"))
         {
-            moveHorizontal *= -1;
+            _moveHorizontal *= -1;
         } else if (other.CompareTag("Bullet"))
         {
             Destroy(gameObject);
