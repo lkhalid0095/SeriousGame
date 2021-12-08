@@ -7,6 +7,9 @@ TagManager:
   - Platform
   - Flag
   - Bullet
+  - EnemyBullet
+  - InvisibleWall
+  - Enemy
   layers:
   - Default
   - TransparentFX

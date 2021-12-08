@@ -383,6 +383,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 933292304}
   pauseButton: {fileID: 928736353}
+  nextScene: EndScene
 --- !u!1 &928736353
 GameObject:
   m_ObjectHideFlags: 0

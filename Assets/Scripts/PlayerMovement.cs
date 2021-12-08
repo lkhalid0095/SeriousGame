@@ -1,71 +1,70 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
 
-    private Rigidbody2D rigidBody2D;
-    private float moveSpeed;
-    private float jumpForce;
-    private bool isJumping;
-    private float moveHorizontal;
-    private float moveVertical;
+    private Rigidbody2D _rigidBody2D;
+    private float _moveSpeed;
+    private float _jumpForce;
+    private bool _isJumping;
+    private float _moveHorizontal;
+    private float _moveVertical;
     private bool _canShoot;
     private bool _facingRight;
 
     public GameObject bullet;
     public Transform firepoint;
     
-    private Animator anim;
+    private Animator _anim;
 
     // Start is called before the first frame update
     void Start()
     {
-        rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
-        anim = gameObject.GetComponentInChildren<Animator>();
-        moveSpeed = 5f;
-        jumpForce = 2.5f;
+        _rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
+        _anim = gameObject.GetComponentInChildren<Animator>();
+        _moveSpeed = 5f;
+        _jumpForce = 2.5f;
         _canShoot = true;
-        isJumping = false;
+        _isJumping = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-        moveHorizontal = Input.GetAxisRaw("Horizontal");
-        moveVertical = Input.GetAxisRaw("Vertical");
+        _moveHorizontal = Input.GetAxisRaw("Horizontal");
+        _moveVertical = Input.GetAxisRaw("Vertical");
 
         if (Input.GetKeyDown("space") && _canShoot)
         {
             Shoot();
         }
+        
+        
     }
 
     void FixedUpdate()
     {
         Vector2 position = new Vector2();
-        position.x = moveHorizontal * moveHorizontal * moveSpeed * Time.deltaTime;
-        if (moveHorizontal > 0 && _facingRight || moveHorizontal < 0 && !_facingRight)
+        position.x = _moveHorizontal * _moveHorizontal * _moveSpeed * Time.deltaTime;
+        if (_moveHorizontal > 0 && _facingRight || _moveHorizontal < 0 && !_facingRight)
         {
             Flip();
         }
 
-        if (moveHorizontal != 0)
+        if (_moveHorizontal != 0)
         {
-            anim.SetBool("isRunning", true);
+            _anim.SetBool("isRunning", true);
         }
         else
         {
-            anim.SetBool("isRunning", false);
+            _anim.SetBool("isRunning", false);
         }
         
-        if (!isJumping && moveVertical > 0f)
+        if (!_isJumping && _moveVertical > 0f)
         {
-            rigidBody2D.AddForce(new Vector2(0, moveVertical * jumpForce), ForceMode2D.Impulse);
+            _rigidBody2D.AddForce(new Vector2(0, _moveVertical * _jumpForce), ForceMode2D.Impulse);
         }
-
 
         transform.Translate(position);
     }
@@ -80,8 +79,18 @@ public class PlayerMovement : MonoBehaviour
     {
         if (other.CompareTag("Platform"))
         {
-            isJumping = false;
+            _isJumping = false;
+        } else if (other.CompareTag("EnemyBullet"))
+        {
+            Destroy(other.gameObject);
+            _anim.SetBool("isDie", true);
+            Invoke(nameof(RestartLevel), 0.5f);
         }
+    }
+
+    private void RestartLevel()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     private void OnTriggerExit2D(Collider2D other)
@@ -89,7 +98,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (other.CompareTag("Platform"))
         {
-            isJumping = true;
+            _isJumping = true;
         }
     }
 
@@ -97,12 +106,17 @@ public class PlayerMovement : MonoBehaviour
     {
         _canShoot = false;
         Instantiate(bullet, firepoint.position, firepoint.rotation);
-        Invoke("EnableShooting", 1);
+        Invoke(nameof(EnableShooting), 1);
     }
 
     private void EnableShooting()
     {
         _canShoot = true;
+    }
+    
+    private void OnBecameInvisible()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
     
 }

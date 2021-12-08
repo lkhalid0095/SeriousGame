@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,7 +5,20 @@ public class SceneSwitcher : MonoBehaviour
 {
     [SerializeField] private GameObject pauseMenu;
     [SerializeField] private GameObject pauseButton;
+    [SerializeField] private string nextScene;
     // Start is called before the first frame update
+
+    private void Update()
+    {
+        if (SceneManager.GetActiveScene().name.Contains("Scene"))
+        {
+            if (GameObject.FindGameObjectsWithTag("Enemy").Length == 0)
+            {
+                SceneManager.LoadScene(nextScene);
+            }
+        }
+    }
+
     public void GoToInstructions()
     {
         SceneManager.LoadScene("Instructions");

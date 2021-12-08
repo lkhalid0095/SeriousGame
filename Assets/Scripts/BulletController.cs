@@ -13,7 +13,7 @@ public class BulletController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        _speed = 7f;
+        _speed = 10f;
         rigidbody2d.velocity = transform.right * _speed;
     }
 

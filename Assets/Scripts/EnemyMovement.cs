@@ -15,6 +15,9 @@ public class EnemyMovement : MonoBehaviour
 
     private Animator anim;
     
+    public GameObject bullet;
+    public Transform firepoint;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -22,15 +25,10 @@ public class EnemyMovement : MonoBehaviour
         _moveSpeed = 5f;
         _moveHorizontal = 1;
         anim = gameObject.GetComponentInChildren<Animator>();
+        InvokeRepeating(nameof(Shoot), 1, 2f);
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    } 
     
-    void FixedUpdate()
+    private void FixedUpdate()
     {
         Vector2 position = new Vector2();
         position.x = _moveHorizontal * _moveHorizontal * _moveSpeed * Time.deltaTime;
@@ -44,7 +42,7 @@ public class EnemyMovement : MonoBehaviour
         transform.Translate(position);
     }
 
-    void Flip()
+    private void Flip()
     {
         transform.Rotate(0, 180f, 0);
         _facingRight = !_facingRight;
@@ -52,21 +50,27 @@ public class EnemyMovement : MonoBehaviour
     
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Platform"))
+        if (other.CompareTag("Platform") || other.CompareTag("InvisibleWall"))
         {
             _moveHorizontal *= -1;
         } else if (other.CompareTag("Bullet"))
         {
             _moveHorizontal = 0;
+            CancelInvoke(nameof(Shoot));
             anim.SetBool("isDie", true);
             Destroy(other.gameObject);
-            Invoke("KillEnemey", 0.5f);
+            Invoke(nameof(KillEnemy), 0.5f);
         }
     }
 
-    private void KillEnemey()
+    private void KillEnemy()
     {
         Destroy(gameObject);
+    }
+    
+    private void Shoot()
+    {
+        Instantiate(bullet, firepoint.position, firepoint.rotation);
     }
     
 }
