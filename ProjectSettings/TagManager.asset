@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Platform
   - Flag
+  - Bullet
   layers:
   - Default
   - TransparentFX
