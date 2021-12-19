@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class PlayerMovementTopDown : MonoBehaviour
 {
-    public float moveSpeed;
+    private float moveSpeed = 2;
     public Rigidbody2D rb;
     private Vector2 moveDirection;
 
     // Update is called once per frame
     void Update()
     {
-        
+        ProcessInputs();
     }
 
     void FixedUpdate() {
