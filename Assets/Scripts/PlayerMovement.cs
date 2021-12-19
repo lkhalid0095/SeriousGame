@@ -81,6 +81,7 @@ public class PlayerMovement : MonoBehaviour
         {
             Destroy(other.gameObject);
             _anim.SetBool("isDie", true);
+            PlayerPrefs.SetInt("CurrentScore", PlayerPrefs.GetInt("CurrentScore") - 20);
             Invoke(nameof(RestartLevel), 0.5f);
         }
     }

@@ -29,9 +29,15 @@ public class SceneSwitcher : MonoBehaviour
         SceneManager.LoadScene("Main Menu");
     }
 
+    public void GoToHighScores()
+    {
+        SceneManager.LoadScene("Highscores");
+    }
+
     public void LoadFirstScene()
     {
         Time.timeScale = 1.0f;
+        PlayerPrefs.SetInt("CurrentScore", 100000);
         SceneManager.LoadScene("Scene1");
     }
 
