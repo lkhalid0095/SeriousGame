@@ -24,7 +24,7 @@ public class PlayerMovement : MonoBehaviour
         _rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
         _anim = gameObject.GetComponentInChildren<Animator>();
         _moveSpeed = 5f;
-        _jumpForce = 2.5f;
+        _jumpForce = 5f;
         _canShoot = true;
         _isJumping = false;
     }
@@ -60,11 +60,8 @@ public class PlayerMovement : MonoBehaviour
         {
             _anim.SetBool("isRunning", false);
         }
-        
-        if (!_isJumping && _moveVertical > 0f)
-        {
-            _rigidBody2D.AddForce(new Vector2(0, _moveVertical * _jumpForce), ForceMode2D.Impulse);
-        }
+
+        position.y = _moveVertical * _jumpForce * Time.deltaTime;
 
         transform.Translate(position);
     }
