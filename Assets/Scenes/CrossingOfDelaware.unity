@@ -1251,7 +1251,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 1617350811}
   pauseButton: {fileID: 1824765200}
-  nextScene: Scene2
+  nextScene: BattleofBunkerHill
 --- !u!114 &1522854176
 MonoBehaviour:
   m_ObjectHideFlags: 0

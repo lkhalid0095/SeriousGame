@@ -422,7 +422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 933292304}
   pauseButton: {fileID: 928736353}
-  nextScene: CrossingOfDelawareText
+  nextScene: BostonMassacre
 --- !u!1001 &683134681
 PrefabInstance:
   m_ObjectHideFlags: 0

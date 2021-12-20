@@ -23,7 +23,14 @@ public class PlayerMovement : MonoBehaviour
     {
         _rigidBody2D = gameObject.GetComponent<Rigidbody2D>();
         _anim = gameObject.GetComponentInChildren<Animator>();
-        _moveSpeed = 5f;
+        if (SceneManager.GetActiveScene().name.Contains("BoxyKong"))
+        {
+            _moveSpeed = 10f;
+        }
+        else
+        {
+            _moveSpeed = 5f;
+        }
         _jumpForce = 5f;
         _canShoot = true;
         _isJumping = false;
@@ -114,7 +121,7 @@ public class PlayerMovement : MonoBehaviour
 
     void OnBecameInvisible()
     {
-        if (GameObject.FindGameObjectsWithTag("Enemy").Length != 0)
+        if (GameObject.FindGameObjectsWithTag("Enemy").Length != 0 && SceneManager.GetActiveScene().name.Contains("Scene"))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             PlayerPrefs.SetInt("CurrentScore", PlayerPrefs.GetInt("CurrentScore") - 20);

@@ -9,9 +9,19 @@ public class SceneSwitcher : MonoBehaviour
     [SerializeField] private string nextScene;
     // Start is called before the first frame update
 
+    private void Start()
+    {
+        if (PlayerPrefs.HasKey("volume"))
+        {
+            AudioListener.volume = PlayerPrefs.GetFloat("volume");
+        }
+    }
+
     private void Update()
     {
-        if (SceneManager.GetActiveScene().name.Contains("Scene") || SceneManager.GetActiveScene().name.Contains("CrossingOfDelaware"))
+        if (SceneManager.GetActiveScene().name.Contains("Scene") 
+            || SceneManager.GetActiveScene().name.Contains("CrossingOfDelaware")
+            || SceneManager.GetActiveScene().name.Contains("Lexington&ConcordStart"))
         {
             if (GameObject.FindGameObjectsWithTag("Enemy").Length == 0)
             {
@@ -43,7 +53,7 @@ public class SceneSwitcher : MonoBehaviour
     {
         Time.timeScale = 1.0f;
         PlayerPrefs.SetInt("CurrentScore", 100000);
-        SceneManager.LoadScene("BoxyKong");
+        SceneManager.LoadScene("GreatBritain");
     }
 
     public void PauseButton()
@@ -63,6 +73,11 @@ public class SceneSwitcher : MonoBehaviour
     public void LoadScene()
     {
         SceneManager.LoadScene(nextScene);
+    }
+
+    public void LoadNextScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void goToOliveBranch(){

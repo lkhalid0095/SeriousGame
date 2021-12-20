@@ -177,7 +177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 816013566063031499, guid: ea740737087bc4f24b8d5e90a8ad60ae, type: 3}
   pauseButton: {fileID: 0}
-  nextScene: Scene1
+  nextScene: BoxyKong
 --- !u!114 &760419240
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -335,6 +335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 144696896}
+  playerName: {fileID: 0}
 --- !u!114 &144696896
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -458,7 +459,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 933292304}
   pauseButton: {fileID: 928736353}
-  nextScene: EndScene
+  nextScene: Independence
 --- !u!1 &928736353
 GameObject:
   m_ObjectHideFlags: 0
