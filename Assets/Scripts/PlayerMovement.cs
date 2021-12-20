@@ -112,4 +112,13 @@ public class PlayerMovement : MonoBehaviour
         _canShoot = true;
     }
 
+    void OnBecameInvisible()
+    {
+        if (GameObject.FindGameObjectsWithTag("Enemy").Length != 0)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            PlayerPrefs.SetInt("CurrentScore", PlayerPrefs.GetInt("CurrentScore") - 20);
+        }
+    }
+    
 }

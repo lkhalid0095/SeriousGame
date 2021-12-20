@@ -917,7 +917,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19bda1c5ac36cf448b2f833ecc078f8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: Scene1
+  nextScene: GreatBritain
 --- !u!1 &393637545
 GameObject:
   m_ObjectHideFlags: 0
@@ -3299,11 +3299,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2460272007481461838, guid: ea740737087bc4f24b8d5e90a8ad60ae, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.9
+      value: 23.2
       objectReference: {fileID: 0}
     - target: {fileID: 2460272007481461838, guid: ea740737087bc4f24b8d5e90a8ad60ae, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -20.2
+      value: 22.8
       objectReference: {fileID: 0}
     - target: {fileID: 2460272007481461838, guid: ea740737087bc4f24b8d5e90a8ad60ae, type: 3}
       propertyPath: m_LocalPosition.z
