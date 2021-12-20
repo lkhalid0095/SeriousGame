@@ -42,7 +42,7 @@ public class SceneSwitcher : MonoBehaviour
     {
         Time.timeScale = 1.0f;
         PlayerPrefs.SetInt("CurrentScore", 100000);
-        SceneManager.LoadScene("Scene1");
+        SceneManager.LoadScene("BoxyKong");
     }
 
     public void PauseButton()
