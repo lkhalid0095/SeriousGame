@@ -34,6 +34,10 @@ public class SceneSwitcher : MonoBehaviour
         SceneManager.LoadScene("Highscores");
     }
 
+    public void GoToSettings()
+    {
+        SceneManager.LoadScene("Settings");
+    }
     public void LoadFirstScene()
     {
         Time.timeScale = 1.0f;
@@ -65,4 +69,17 @@ public class SceneSwitcher : MonoBehaviour
     public void goToCrossing(){
         SceneManager.LoadScene("CrossingofDelaware");
     }
+    public void goToLexingtonText(){
+        SceneManager.LoadScene("LexingtonConcord");
+    }
+    public void goToBoston(){
+        SceneManager.LoadScene("BostonMassacre");
+    }
+    public void goToBunkerHill(){
+        SceneManager.LoadScene("BattleofBunkerHill");
+    }
+    public void goToDecIndependence(){
+        SceneManager.LoadScene("Independence");
+    }
+    
 }
