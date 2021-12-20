@@ -177,6 +177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 816013566063031499, guid: ea740737087bc4f24b8d5e90a8ad60ae, type: 3}
   pauseButton: {fileID: 0}
+  nextScene: Scene1
 --- !u!114 &760419240
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -223,7 +224,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 760419239}
         m_TargetAssemblyTypeName: SceneSwitcher, Assembly-CSharp
-        m_MethodName: goToCrossingText
+        m_MethodName: LoadScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -667,6 +668,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 816013566063031499, guid: ea740737087bc4f24b8d5e90a8ad60ae, type: 3}
   pauseButton: {fileID: 0}
+  nextScene: 
 --- !u!114 &1520765054
 MonoBehaviour:
   m_ObjectHideFlags: 0

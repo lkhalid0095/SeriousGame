@@ -422,7 +422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 933292304}
   pauseButton: {fileID: 928736353}
-  nextScene: Scene2
+  nextScene: CrossingOfDelawareText
 --- !u!1001 &683134681
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1204,6 +1204,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1336844888}
+  playerName: {fileID: 0}
 --- !u!1001 &1395395214
 PrefabInstance:
   m_ObjectHideFlags: 0

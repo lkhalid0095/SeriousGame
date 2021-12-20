@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -10,7 +11,7 @@ public class SceneSwitcher : MonoBehaviour
 
     private void Update()
     {
-        if (SceneManager.GetActiveScene().name.Contains("Scene"))
+        if (SceneManager.GetActiveScene().name.Contains("Scene") || SceneManager.GetActiveScene().name.Contains("CrossingOfDelaware"))
         {
             if (GameObject.FindGameObjectsWithTag("Enemy").Length == 0)
             {
@@ -57,6 +58,11 @@ public class SceneSwitcher : MonoBehaviour
         Time.timeScale = 1.0f;
         pauseMenu.SetActive(false);
         pauseButton.SetActive(true);
+    }
+
+    public void LoadScene()
+    {
+        SceneManager.LoadScene(nextScene);
     }
 
     public void goToOliveBranch(){
